@@ -1,4 +1,6 @@
 The hacking methodology categories align with the enterprise attack tactics in the MITRE ATT&CK matrix. The categories are:
+
+
 Initial access - Gaining initial entry to the target network, usually involving password-guessing, exploits, or phishing emails
 Execution - Launching attacker tools and malicious code, including RATs and backdoors
 Persistence - Creating autostart extensibility points (ASEPs) to remain active and survive system restarts
@@ -12,8 +14,3 @@ Command and control - Connecting to attacker-controlled network infrastructure t
 Exfiltration - Extracting data from the network to an external, attacker-controlled location
 
 
-
-
-##############reference
-
-https://zweilosec.gitbook.io/hackers-rest/
